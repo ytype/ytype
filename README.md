@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm interested in javascript and python!
+
 <!--
 **ytype/ytype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
