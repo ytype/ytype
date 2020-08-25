@@ -1,3 +1,3 @@
 ### Hello!
 
-:pushpin: [Resume](https://ytype.github.io/portfolio/)
+:pushpin:  [Resume](https://ytype.site)
